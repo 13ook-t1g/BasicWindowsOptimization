@@ -1,0 +1,12 @@
+Bluetooth
+Microsoft GS Wavetable Synth
+SMBus
+Composite Bus Enumerator
+High Definition Audio Bus
+High precision event timer
+Hyper-V
+Microsoft Virtual Drive Enumerator
+NDIS
+Remote Desktop
+System Speaker
+UMBus
